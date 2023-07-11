@@ -48,4 +48,5 @@ def main():
     st.info("Intagram : @eraldolie")
 
 if __name__ == '__main__':
+    main()
     
